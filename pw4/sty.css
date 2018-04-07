@@ -1,0 +1,56 @@
+.header{
+	margin:0 auto;
+	width: 900px;
+	height: 120px;
+	background: silver;
+}
+.header h1{
+	font-size: 25px;
+	margin-top: 30px;
+	width: 400px;
+	text-align: right;
+	float: right;
+	padding: 10px 10px 10px 0;
+	font-family: arial;
+	background: grey;
+	border-top-left-radius:15px;
+	border-bottom-left-radius: 15px;
+}
+.header h1 small{
+	font-size: 12px;
+	font-style: oblique;
+}
+.menu{
+	margin: 0 auto;
+	width: 900px;
+	height: 45px;
+	font-size: 16px
+	border-top:5px solid #dd6600;
+	background-color: black;
+	text-align: center; 
+}
+.menu ul li{
+	margin: 90px;
+	display: inline;
+	color: white;
+}
+.menu li a{
+	text-decoration: none;
+	margin: 0 10px;
+	padding-bottom: 5px
+	color: green;
+}
+.content{
+	margin: 0 auto;
+	width: 880px;
+	height: 290px;
+	background-color: #ddd;
+	padding:10px;
+}
+.c1{
+	float: left;
+	margin-right: 10px;
+	width: 280px;
+	height: 280px;
+	background-color: grey;
+}
