@@ -1,5 +1,4 @@
 .header{
-	
 	background: silver;
 }
 .header h1{
@@ -20,9 +19,9 @@
 }
 .menu{
 
-	font-size: 16px; 
+	font-size: 16px;
 	border-top:5px solid #dd6600;
-	background-color: silver;
+	background-color: grey;
 	text-align: center; 
 }
 .menu ul li{
